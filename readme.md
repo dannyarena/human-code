@@ -20,3 +20,5 @@ Altrimenti non la compro AND cerco il libro
 
 -Se non ho comprato nulla 
  - compro il libro
+ 
+   -ALTRIMENTI non la sorprendo
